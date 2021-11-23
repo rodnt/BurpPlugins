@@ -8,3 +8,4 @@ This plugin just identify a wordpress instance via passive checks, and send a no
 ##### example
 
 
+![poc.png](poc.png)
