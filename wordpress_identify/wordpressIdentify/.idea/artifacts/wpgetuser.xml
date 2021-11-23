@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wpgetuser">
+    <output-path>$PROJECT_DIR$/out/artifacts/wpgetuser</output-path>
+    <root id="archive" name="wpgetuser.jar" />
+  </artifact>
+</component>
